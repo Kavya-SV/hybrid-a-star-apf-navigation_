@@ -1,4 +1,4 @@
-Hybrid A*-APF Navigation Framework for Indoor Robot Motion
+*Hybrid A*-APF Navigation Framework for Indoor Robot Motion
 
 This repository contains the implementation of a hybrid path planning framework that combines A* search and Artificial Potential Fields (APF) for real-time indoor robot navigation.
 
